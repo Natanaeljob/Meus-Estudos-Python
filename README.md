@@ -1,2 +1,7 @@
 # Meus-Estudos-Python
-Apresentando meu material do Curso em Vídeo
+
+Desafios propostos por Professor Gustavo Guanabara
+
+fonte de conhecimento: 
+Canal YouTube: Curso em Vídeo
+link: https://www.youtube.com/c/CursoemV%C3%ADdeo
